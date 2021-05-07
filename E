@@ -1,0 +1,9 @@
+
+ ____                                              A_______A  W
+I           \   /       I                         ( o\ _ /o ) I
+I----        \ /        I                          [   .   ]_/I
+I____         V         I____                        ]    [   I
+
+Hello and welcome to the EVL script
+You may run the script now
+
